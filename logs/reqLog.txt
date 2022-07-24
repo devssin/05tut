@@ -1,0 +1,5 @@
+2022/07/24	17:28:34	ee45899e-beac-4088-8169-1dda695dc070	/	GET 
+2022/07/24	17:29:02	38cd817a-ffdd-4821-9856-6aca9a04f59e	/	GET 
+2022/07/24	17:29:02	a6fe2237-ce0f-4d75-b6cd-3e697121a7f4	/	GET 
+2022/07/24	17:29:03	c92f12a5-e573-4a5d-9c8f-24f45bdbf37b	/css/style.css	GET 
+2022/07/24	17:29:03	bb454eaf-eec3-42c6-b55a-6fb832a47eaf	/css/style.css	GET 
